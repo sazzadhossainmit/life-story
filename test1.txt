@@ -1,6 +1,7 @@
-I was born in 2003 on October 27
-I have done my SSC in 2020
+I was born 2003 on October 27
+I did my SSC in 2020
 added new text
-I am learning github
-I have completed my HSC in 2022
-I have started my web development job in 2022
+I am learning GitHub
+I completed my HSC in 2022
+I started my web development job in 2022
+I will join Munshi IT in December
