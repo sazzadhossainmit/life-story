@@ -5,3 +5,4 @@ I am learning GitHub
 I completed my HSC in 2022
 I started my web development job in 2022
 I will join Munshi IT in December
+Logo alignment is centered.
